@@ -1,0 +1,21 @@
+User-agent: *
+Allow: /
+
+User-agent: *
+Disallow: /css
+
+User-agent: *
+Disallow: /fonts
+
+User-agent: *
+Disallow: /img
+
+User-agent: *
+Disallow: /ionicons
+
+User-agent: *
+Disallow: /js
+
+
+User-agent: *
+Disallow: /php
